@@ -1,0 +1,3 @@
+Endpoint: sagemaker-xgboost-2026-11-06-13-16-02-946
+{'predicted_change': 0.3240976631641388, 'predicted_level': 325.32409766316414}
+Endpoint deleted
