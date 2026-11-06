@@ -28,8 +28,8 @@ Training: Jan 1990 – Dec 2023. Holdout: Jan 2024 – Dec 2025 (24 months). Err
 - Over 24 months, a simple drift baseline beat every model, including XGBoost. XGBoost had about 45% lower MAE than Prophet but roughly three times the error of drift.
 - One month ahead, XGBoost and ARIMA performed similarly, and both had about half the error of the naive baseline. The gap between XGBoost and ARIMA is small and comes from a single holdout window.
 
-![24-month comparison](images/model_comparison_24m.png)
-![RMSE by model](images/rmse_comparison.png)
+![24-month comparison](Images/model_comparison_24m.png)
+![RMSE by model](Images/rmse_comparison.png)
 
 ## Approach
 
